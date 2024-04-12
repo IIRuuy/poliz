@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<lexemes>
+	<lexeme>
+		<type>KEYWORD</type>
+		<regex>create</regex>
+	</lexeme>
+	<lexeme>
+		<type>KEYWORD</type>
+		<regex>type</regex>
+	</lexeme>
+	<lexeme>
+		<type>KEYWORD</type>
+		<regex>as</regex>
+	</lexeme>
+	<lexeme>
+		<type>KEYWORD</type>
+		<regex>enum</regex>
+	</lexeme>
+
+	<lexeme>
+		<type>IDENTIFIER</type>
+		<regex>[\w\d]+</regex>
+	</lexeme>
+	
+	<lexeme>
+		<type>STRING</type>
+		<regex>\'([\w\d]*)'</regex>
+	</lexeme>
+	
+	<lexeme>
+		<type>COMMA</type>
+		<regex>,</regex>
+	</lexeme>
+	<lexeme>
+		<type>SPACE</type>
+		<regex>[\s\t]</regex>
+	</lexeme>
+	<lexeme>
+		<type>LPAR</type>
+		<regex>\(</regex>
+	</lexeme>
+	<lexeme>
+		<type>RPAR</type>
+		<regex>\)</regex>
+	</lexeme>
+	<lexeme>
+		<type>EOF</type>
+		<regex>;</regex>
+	</lexeme>
+</lexemes>

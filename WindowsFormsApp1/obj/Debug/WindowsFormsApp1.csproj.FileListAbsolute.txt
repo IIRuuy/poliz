@@ -1,0 +1,19 @@
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\Resources\Regex.xml
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\Language Processor.exe.config
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\Language Processor.exe
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\Language Processor.pdb
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.dll
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\TabStrip.dll
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Help.resources
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\Language Processor.exe
+C:\Users\manga\Downloads\LanguageProcessor-antlr\code\WindowsFormsApp1\obj\Debug\Language Processor.pdb
